@@ -1,0 +1,7 @@
+{
+  "checkpoints": [
+    { "id": 1, "title": "/checkpoint1/" },
+    { "id": 2, "title": "/checkpoint2/" },
+    { "id": 3, "title": "/checkpoint3/" }
+  ]
+}
